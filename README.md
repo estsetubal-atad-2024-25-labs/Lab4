@@ -30,7 +30,7 @@
 > Iremos utilizar a ferramenta *online* [PythonTutor](https://pythontutor.com/c.html#mode=edit) para analisarmos e visualizarmos a memória na execução passo-a-passo de programas que utilizam os conceitos-alvo deste laboratório.  
 > Todo o trabalho proposto nesta secção será efetuado diretamente nesta ferramenta.
 
-1. Utilize [este link]() para carregar no site o seguinte programa:
+1. Carregue no site o seguinte programa:
 
 	```cpp
 	#include <stdio.h>
