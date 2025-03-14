@@ -1,0 +1,51 @@
+Ticker;ISIN;Name;TER (%);Distribution;Replication;Fund size (in m €);2024 (%)
+SXR8;IE00B5BMR087;iShares Core S&P 500 UCITS ETF USD (Acc);0.07;Accumulating;Full replication;104545;32.62
+EUNL;IE00B4L5Y983;iShares Core MSCI World UCITS ETF USD (Acc);0.2;Accumulating;Optimized sampling;92879;26.24
+VUSA;IE00B3XXRP09;Vanguard S&P 500 UCITS ETF (USD) Distributing;0.07;Distributing;Full replication;42843;32.62
+P500;IE00B3YCGJ38;Invesco S&P 500 UCITS ETF;0.05;Accumulating;Swap based;28637;32.86
+IS3N;IE00BKM4GZ66;iShares Core MSCI Emerging Markets IMI UCITS ETF (Acc);0.18;Accumulating;Full replication;21810;14.04
+VUAA;IE00BFMXXD54;Vanguard S&P 500 UCITS ETF (USD) Accumulating;0.07;Accumulating;Full replication;19475;32.61
+PPFB;IE00B4ND3602;iShares Physical Gold ETC;0.12;Accumulating;Physically backed;18219;34.47
+8PSG;IE00B579F325;Invesco Physical Gold A;0.12;Accumulating;Physically backed;17881;34.49
+IUSA;IE0031442068;iShares Core S&P 500 UCITS ETF USD (Dist);0.07;Distributing;Full replication;17607;32.6
+VWCE;IE00BK5BQT80;Vanguard FTSE All-World UCITS ETF (USD) Accumulating;0.22;Accumulating;Optimized sampling;17451;24.65
+IUSQ;IE00B6R52259;iShares MSCI ACWI UCITS ETF USD (Acc);0.2;Accumulating;Optimized sampling;16961;24.82
+VGWL;IE00B3RBWM25;Vanguard FTSE All-World UCITS ETF (USD) Distributing;0.22;Distributing;Optimized sampling;16133;24.65
+SXRV;IE00B53SZB19;iShares Nasdaq 100 UCITS ETF (Acc);0.3;Accumulating;Full replication;15759;33.29
+4GLD;DE000A0S9GB0;Xetra-Gold;0;Accumulating;Physically backed;15202;34.66
+XEON;LU0290358497;Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C;0.1;Accumulating;Swap based;14565;3.79
+XDWD;IE00BJ0KDQ92;Xtrackers MSCI World UCITS ETF 1C;0.19;Accumulating;Optimized sampling;14315;26.23
+IUSZ;IE0005042456;iShares Core FTSE 100 UCITS ETF GBP (Dist);0.07;Distributing;Full replication;14309;14.82
+IBC1;IE00BGSF1X88;iShares USD Treasury Bond 0-1yr UCITS ETF (Acc);0.07;Accumulating;Sampling;13987;11.92
+SPY5;IE00B6YX5C33;SPDR S&P 500 UCITS ETF (Dist);0.03;Distributing;Full replication;13177;32.65
+LYP7;LU1135865084;Amundi S&P 500 II UCITS ETF Acc;0.05;Accumulating;Swap based;12104;33.23
+XDEW;IE00BLNMYC90;Xtrackers S&P 500 Equal Weight UCITS ETF 1C;0.2;Accumulating;Full replication;10981;19.62
+H4ZJ;IE00B4X9L533;HSBC MSCI World UCITS ETF USD;0.15;Distributing;Optimized sampling;10882;26.22
+JREU;IE00BF4G7076;JPMorgan US Research Enhanced Index Equity (ESG) UCITS ETF USD (acc);0.2;Accumulating;Full replication;10399;32.38
+SPPW;IE00BFY0GT14;SPDR MSCI World UCITS ETF;0.12;Accumulating;Optimized sampling;10247;26.49
+SGAS;IE00BFNM3G45;iShares MSCI USA ESG Screened UCITS ETF USD (Acc);0.07;Accumulating;Full replication;10142;34.26
+OM3L;IE00BHZPJ890;iShares MSCI USA ESG Enhanced UCITS ETF USD (Dist);0.07;Distributing;Full replication;10059;31.45
+QDVE;IE00B3WJKG14;iShares S&P 500 Information Technology Sector UCITS ETF USD (Acc);0.15;Accumulating;Full replication;10019;45.92
+EUN5;IE00B3F81R35;iShares Core EUR Corporate Bond UCITS ETF (Dist);0.2;Distributing;Sampling;9846;4.58
+EUNK;IE00B4K48X80;iShares Core MSCI Europe UCITS ETF EUR (Acc);0.12;Accumulating;Optimized sampling;9822;8.84
+LYP6;LU0908500753;Amundi Stoxx Europe 600 UCITS ETF Acc;0.07;Accumulating;Full replication;9604;9.01
+XD9U;IE00BJ0KDR00;Xtrackers MSCI USA UCITS ETF 1C;0.07;Accumulating;Full replication;8537;32.67
+I500;IE00BMTX1Y45;iShares S&P 500 Swap UCITS ETF USD (Acc);0.05;Accumulating;Swap based;8486;33
+IQQY;IE00B1YZSC51;iShares Core MSCI Europe UCITS ETF EUR (Dist);0.12;Distributing;Optimized sampling;8168;8.87
+XZMU;IE00BFMNPS42;Xtrackers MSCI USA ESG UCITS ETF 1C;0.15;Accumulating;Full replication;8027;32.64
+EQQQ;IE0032077012;Invesco EQQQ Nasdaq-100 UCITS ETF;0.3;Distributing;Full replication;8027;33.34
+EXW1;DE0005933956;iShares EURO STOXX 50 UCITS ETF (DE);0.09;Distributing;Full replication;7874;11.29
+EXS1;DE0005933931;iShares Core DAX UCITS ETF (DE) EUR (Acc);0.16;Accumulating;Full replication;7754;18.07
+LYYA;FR0010315770;Amundi MSCI World II UCITS ETF Dist;0.3;Distributing;Swap based;7703;26.66
+SPYL;IE000XZSV718;SPDR S&P 500 UCITS ETF (Acc);0.03;Accumulating;Full replication;7655;32.76
+2B7K;IE00BYX2JD69;iShares MSCI World SRI UCITS ETF EUR (Acc);0.2;Accumulating;Full replication;7557;17.87
+EDMU;IE00BHZPJ908;iShares MSCI USA ESG Enhanced UCITS ETF USD (Acc);0.07;Accumulating;Full replication;7471;31.38
+IQQW;IE00B0M62Q58;iShares MSCI World UCITS ETF (Dist);0.5;Distributing;Optimized sampling;7306;25.93
+H4ZF;IE00B5KQNG97;HSBC S&P 500 UCITS ETF USD;0.09;Distributing;Full replication;7159;32.62
+SPPU;IE00BLF7VX27;SPDR Bloomberg SASB U.S. Corporate ESG UCITS ETF;0.15;Accumulating;Sampling;6890;8.18
+EXSA;DE0002635307;iShares STOXX Europe 600 UCITS ETF (DE);0.2;Distributing;Full replication;6864;8.67
+XZW0;IE00BZ02LR44;Xtrackers MSCI World ESG UCITS ETF 1C;0.2;Accumulating;Full replication;6633;27.36
+IBCF;IE00B3ZW0K18;iShares S&P 500 EUR Hedged UCITS ETF (Acc);0.2;Accumulating;Full replication;6588;22.52
+DBXD;LU0274211480;Xtrackers DAX UCITS ETF 1C;0.09;Accumulating;Full replication;5997;18.26
+SC0J;IE00B60SX394;Invesco MSCI World UCITS ETF Acc;0.19;Accumulating;Swap based;5938;26.32
+JREG;IE00BF4G6Y48;JPMorgan Global Research Enhanced Index Equity (ESG) UCITS ETF USD (acc);0.25;Accumulating;Full replication;5898;25.86
